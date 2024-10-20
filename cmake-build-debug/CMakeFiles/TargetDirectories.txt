@@ -1,0 +1,3 @@
+/home/filip/CLionProjects/Merito_Postawy_Programowania/cmake-build-debug/CMakeFiles/Merito_Postawy_Programowania.dir
+/home/filip/CLionProjects/Merito_Postawy_Programowania/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/filip/CLionProjects/Merito_Postawy_Programowania/cmake-build-debug/CMakeFiles/rebuild_cache.dir
